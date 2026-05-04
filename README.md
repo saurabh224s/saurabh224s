@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
   <!-- Profile Views Badge -->
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=saurabh-ingale&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=saurabh224s&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -99,19 +99,19 @@ and exploring the intersection of AI and user-centric design.
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=saurabh-ingale&theme=dark&bg_color=0d1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=ffffff&border_color=30363d&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=saurabh224s&theme=dark&bg_color=0d1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=ffffff&border_color=30363d&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh-ingale&theme=dark&background=0d1117&stroke=30363d&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh224s&theme=dark&background=0d1117&stroke=30363d&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 ### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-ingale&theme=dark&bg_color=0d1117&title_color=4ECDC4&text_color=ffffff&border_color=30363d&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh224s&theme=dark&bg_color=0d1117&title_color=4ECDC4&text_color=ffffff&border_color=30363d&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 ### Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh-ingale&theme=dark-dimmed&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=4ECDC4&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh224s&theme=dark-dimmed&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=4ECDC4&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -133,7 +133,7 @@ and exploring the intersection of AI and user-centric design.
 
 <div align="center">
 
-[![An image of @saurabh-ingale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabh-ingale)](https://holopin.me/saurabh-ingale)
+[![An image of @saurabh224s's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabh-ingale)](https://holopin.me/saurabh224s)
 
 </div>
 
@@ -144,11 +144,11 @@ and exploring the intersection of AI and user-centric design.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-ingale)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabh-ingale)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=dribbble&logoColor=white)](https://saurabh-ingale.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabh224s)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=dribbble&logoColor=white)](https://saurabh224s.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabh@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saurabh_ingale)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/saurabh_ingale)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saurabh224s)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/saurabh224s)
 
 </div>
 
@@ -211,7 +211,7 @@ and exploring the intersection of AI and user-centric design.
 ### 💬 Let's Connect!
 **I'm always open to collaborating on interesting projects, discussing ideas, or helping with technical challenges.**
 
-<img src="https://raw.githubusercontent.com/saurabh-ingale/saurabh-ingale/main/wave.gif" width="30px" alt="Wave" style="margin-left: 10px">
+<img src="https://raw.githubusercontent.com/saurabh224s/saurabh224s/main/wave.gif" width="30px" alt="Wave" style="margin-left: 10px">
 
 ---
 
