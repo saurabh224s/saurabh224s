@@ -235,7 +235,7 @@
 
 <div align="center">
   <h3>⭐ From <a href="https://github.com/saurabh224s">saurabh224s</a> with 💖</h3>
-  <i>"Code. Design. Inspire. Repeat."</i>
+  <i>"Code.| Design. |Inspire.| Repeat."</i>
 </div>
-```
+
 
