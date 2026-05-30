@@ -45,7 +45,7 @@
 - 👯  Looking to collaborate on **Open Source Projects**
 - 💬  Ask me about **React, Tailwind, Python, UI Design**
 - 📫  Reach me at: **saurabh224s@gmail.com**
-- 🎨  Pronouns: **He/Him**
+- 🎨  Pronouns: **He**
 
 </td>
 <td width="40%" align="center">
